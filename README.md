@@ -7,3 +7,9 @@
 This is a ✨ special ✨ repository: its README shows up on your GitHub profile.
 Edit this file to make it yours.
 --->
+
+## Support My Work
+
+If you find this project useful, consider supporting my work with a Bitcoin donation:
+
+`BC1Q6Q75K8ZJXVW7W02LMDPRPY6XX6QK4LZZ2RMVAY`
