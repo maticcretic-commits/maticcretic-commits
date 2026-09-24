@@ -1,11 +1,11 @@
-# Hi there, I'm @maticcretic-commits 👋
+# Hi, I'm Nitesh 👋
 
-- 🌱 I'm new to GitHub and learning the ropes
-- 💡 This profile README is my first creation — built with a little help from Muse
+- 🤖 I build **free AI automations** — n8n workflows, AI agents, and chatbots that cost ₹0 to run
+- 🆓 Every repo on my profile is free to use, fork, and learn from
+- 🎥 I share the builds on YouTube: **Automate with Nitesh**
 
 <!---
 This is a ✨ special ✨ repository: its README shows up on your GitHub profile.
-Edit this file to make it yours.
 --->
 
 ## ❤️ Support My Work
